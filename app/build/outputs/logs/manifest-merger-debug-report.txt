@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\80c9906a031ff8f7b87a39cac4e4e52a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\80c9906a031ff8f7b87a39cac4e4e52a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\80c9906a031ff8f7b87a39cac4e4e52a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.somtouzoegwu.migraalert.Main
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:15:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\80c9906a031ff8f7b87a39cac4e4e52a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\80c9906a031ff8f7b87a39cac4e4e52a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somto Uzoegwu\AndroidStudioProjects\MigraAlert\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\43559036085f9a355aabaa12c87ec54f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\cf49c1fa8e88900f36843382ad560401\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1cadc8dc0f838d983cb72fa16d9f3bfd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\433e42df189eaaef4929712dea2647f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3265395c3442c2c08263eaa856251e6e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0672eac85684dc125f86f248cb2cd605\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e917d60e14f03a3c0e88535ae1865d33\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0aa75b5db7734f8dfbd8669332383414\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a9d1721c68acbea53d3794f592455686\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b123cd57c4fb787b33d88486e1d81808\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\698c1d6e459734c7d17815fdbed78bfc\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\074d10d2ee75c995ca6172674f1128c6\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Somto Uzoegwu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\db36e3e37f238b191acc98737e59eca4\AndroidManifest.xml:26:13-58
